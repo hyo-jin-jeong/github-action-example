@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hyo-jin-jeong/github-action-example/issues"
   },
-  "homepage": "https://github.com/hyo-jin-jeong/github-action-example#readme"
+  "homepage": "https://github.com/hyo-jin-jeong/github-action-example#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
 }
